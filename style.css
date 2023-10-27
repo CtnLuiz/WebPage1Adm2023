@@ -1,6 +1,9 @@
 body {
     background: #CCCCCC
 }
+#banner {
+    width: 100%;
+}
 .principal{
     background: #CCCCCC;
     padding: 30px;
@@ -8,8 +11,12 @@ body {
 .itens {
     font-style: italic;
 }
-#banner {
-    width: 100%;
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+h2 {
+    text-align: center;
 }
 p {
     text-align: center;
