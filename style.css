@@ -5,6 +5,9 @@ body {
     background: #CCCCCC;
     padding: 30px;
 }
+.itens {
+    font-style: italic;
+}
 #banner {
     width: 100%;
 }
